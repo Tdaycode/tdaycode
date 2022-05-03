@@ -1,5 +1,5 @@
-Hi 👋 My name is Omotayo Ganiyu
-===============================
+Hi 👋 My name is Omotayo Ganiyu, A solution driven Software Engineer
+====================================================================
 
 Software Engineer
 -----------------
