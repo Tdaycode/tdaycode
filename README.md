@@ -32,6 +32,8 @@ src="https://img.shields.io/github/followers/tdaycode?logo=github&style=for-the-
 <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
 </p>
 
+[![Boot.dev Learn Linux certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/f9afcf5f-51d0-4f64-a716-f86b205ce26c.jpeg?v=1790622383)](https://www.boot.dev/certificates/f9afcf5f-51d0-4f64-a716-f86b205ce26c)
+
 
 ### Socials
 
